@@ -10,6 +10,8 @@ Install needed packages::
 
 -
 Note: (lua)jit is needed for youtube-dl 
+
+
 -
 copy ffmpeg, ffprobe, mpv to ~/bin and mpv.conf to ~/.config/mpv
 
