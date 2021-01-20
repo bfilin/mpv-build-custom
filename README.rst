@@ -1,6 +1,6 @@
 redo of the old ol8 setup for fc33
 ===================================
-Clean install fc33 workstation
+Clean install fc33 workstation into vm
 Install needed packages::
 
     dnf -y install g++ autoconf libtool automake fribidi-devel harfbuzz-devel nasm yasm \
@@ -9,8 +9,8 @@ Install needed packages::
 
 
 -
-
-copy mpv.conf to ~/.config/mpv
+Note: (lua)jit is needed for youtube-dl
+copy ffmpeg, ffprobe, mpv to ~/bin and mpv.conf to ~/.config/mpv
 
 Overview
 ========
