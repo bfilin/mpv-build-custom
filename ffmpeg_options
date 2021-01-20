@@ -1,0 +1,8 @@
+--enable-libfdk_aac
+--enable-libfreetype
+--enable-libx264
+--enable-libvpx
+--enable-libopus
+--enable-nonfree
+--enable-openssl
+--enable-alsa

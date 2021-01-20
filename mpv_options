@@ -1,0 +1,9 @@
+--enable-gl-x11
+--disable-jack
+--disable-libarchive
+--disable-zimg
+--disable-uchardet
+--disable-vapoursynth
+--disable-rubberband
+--disable-libplacebo
+--lua=luajit
