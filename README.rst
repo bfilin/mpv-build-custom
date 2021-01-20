@@ -5,8 +5,7 @@ Install needed packages::
 
     dnf -y install g++ autoconf libtool automake fribidi-devel harfbuzz-devel nasm yasm \
     alsa-lib-devel openssl-devel ghc-X11-xft-devel luajit-devel wayland-protocols-devel \
-    wayland-devel gtkglext-devel mujs-devel pulseaudio-libs-devel libXv-devel \
-    libjpeg-turbo-devel libva-devel
+    wayland-devel pulseaudio-libs-devel gtkglext-devel
 
 
 -
