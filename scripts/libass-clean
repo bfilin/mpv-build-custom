@@ -1,5 +1,0 @@
-#!/bin/sh
-
-if [ -f libass/Makefile ];then
-    make -C libass distclean
-fi

@@ -1,5 +1,0 @@
-#!/bin/sh
-
-if [ -f x264/Makefile ];then
-    make -C x264 distclean
-fi

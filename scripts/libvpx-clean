@@ -1,5 +1,0 @@
-#!/bin/sh
-
-if [ -f libvpx/Makefile ];then
-    make -C libvpx distclean
-fi

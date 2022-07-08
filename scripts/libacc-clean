@@ -1,5 +1,0 @@
-#!/bin/sh
-
-if [ -f libacc/Makefile ];then
-    make -C libacc distclean
-fi
