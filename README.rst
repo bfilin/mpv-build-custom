@@ -26,6 +26,8 @@ Checkout the build repo::
     git clone https://github.com/mpv-player/mpv-build.git
 
     cd mpv-build
+    
+    copy mpv_options and ffmpeg_options to mpv-build
 
 To get the ffmpeg, libass and mpv sources and build them, run the command::
 
